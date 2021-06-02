@@ -1,0 +1,9 @@
+{
+  "database" : {
+    "name" : "MyDatabase",
+    "virtualPrivateDatabase" : false,
+    "crmMetadataTables" : false,
+    "allowDirectDatabaseRequests" : false,
+    "allowPopulateQueries" : false
+  }
+}
